@@ -15,7 +15,9 @@
     * 개인정보 수정
     * 친구 요청, 수락, 친구 목록에서 삭제
     * 회원 검색
-![image](https://user-images.githubusercontent.com/87968279/127362662-9ee8e731-2c28-4551-8175-b3b5d05600df.png)
+
+![image style="width:30%; height:auto;"](https://user-images.githubusercontent.com/87968279/127362802-93847945-ad85-4e99-8493-ffc8ee9f0d4b.png)
+
 
 2. 게시글
     * 게시글 작성(다수의 이미지, 동영상 업로드 가능, 슬라이드, 해시태그 추가)
