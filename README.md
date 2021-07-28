@@ -50,3 +50,14 @@
 * Bootstrap Framework
 * Jquery
 * git, github
+
+---
+
+## 개발환경 설정 방법
+
+* Spring 초기 설정 
+   - https://blog.naver.com/pyo2834/222391705761
+   - Dao 쿼리문을 작성하기위한 설정 : https://blog.naver.com/pyo2834/222393202621
+
+* MySQL 설치
+   - https://dev.mysql.com/downloads/mysql/
