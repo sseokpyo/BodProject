@@ -1,5 +1,4 @@
 ﻿# BodProject
- ![BOD_DB](https://user-images.githubusercontent.com/87968279/127532670-d941ce60-3e84-4909-8409-4906da91aa62.jpg)
 
 
 스프링부트 기반의 개인, 그룹 SNS
@@ -41,7 +40,9 @@
       - 글삭제(해당 글의 이미지, 동영상, 댓글, 대댓글, 좋아요)
     * 그룹 목록
       - 그룹삭제(그룹, 그룹멤버, 그룹게시글)
-
+---
+## DATABASE
+![BOD_DB](https://user-images.githubusercontent.com/87968279/127532670-d941ce60-3e84-4909-8409-4906da91aa62.jpg)
 ---
 
 ## 기술
