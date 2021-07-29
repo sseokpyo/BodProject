@@ -1,5 +1,6 @@
 ﻿# BodProject
-[BOD_DB.pdf](https://github.com/sseokpyo/BodProject/files/6902175/BOD_DB.pdf)
+ ![BOD_DB](https://user-images.githubusercontent.com/87968279/127532670-d941ce60-3e84-4909-8409-4906da91aa62.jpg)
+
 
 스프링부트 기반의 개인, 그룹 SNS
 
